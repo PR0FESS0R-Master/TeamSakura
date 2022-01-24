@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "repository": "https://github.com/PR0FESS0R-Master/TeamSakura",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
